@@ -12,7 +12,7 @@ body{
 
 nav{
     margin-top: 0.5em;
-    font-size: 2em;
+    font-size: 1.7em;
     font-weight: 900;
     text-align: center;
     background-color: white;
@@ -20,7 +20,7 @@ nav{
 }
 nav img{
     padding-left: 0.05em;
-    width: 80px;
+    width: 60px;
 }
 #box{
     max-width: 300px;
