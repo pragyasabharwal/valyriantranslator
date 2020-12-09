@@ -10,7 +10,7 @@ function constructUrl(input)
 }
 
 function errorHandler(error){
-console.log("error occurred, error")
+console.log("error occurred", error)
 alert("Something wrong with server! Please try again after sometime")
 }
 
